@@ -1,4 +1,6 @@
 #EXTM3U url-tvg="http://iptvx.one/epg/epg.xml.gz"
+#EXTINF:-1 ,ТВA-30.08.24 iptv.org.ua 
+https://iptv.org.ua/wp-content/uploads/2022/01/Moyo-slayd33-shou.mp4
 #EXTINF:-1 group-title="Moldtelecom",Global 24 MD
 http://212.0.213.132:4444/Ren_TV/index.m3u8
 #EXTINF:-1 group-title="Moldtelecom",ТНТ Exclusiv TV
